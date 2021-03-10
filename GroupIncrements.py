@@ -1,7 +1,6 @@
 import os
 import shutil
 
-split_factor = '-'
 path = "D:\\Documents - HDD\\PyProjects\\Group-Increments\\project"
 print ("current directory: " + path)
 
